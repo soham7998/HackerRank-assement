@@ -1,0 +1,11 @@
+def missingCharacters(s):
+    digits = '0123456789'
+    letters = 'abcdefghijklmnopqrstuvwxyz'
+    missing_digits = [d for d in digits if d not in s]
+    missing_letters = [c for c in letters if c not in s]
+    return ''.join(sorted(missing_digits + missing_letters))
+
+# Example usage
+S = input()
+result = missingCharacters(S)
+print(result)
