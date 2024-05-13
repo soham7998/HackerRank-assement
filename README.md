@@ -1,5 +1,5 @@
-## HackerRank-assement(Python Basics)
-This was two Questions to solve in hackerrank Assement to get Certification Of Python Basics  **[CERTFICATE](https://www.hackerrank.com/certificates/deede1168056)**.
+**HackerRank-assement(Python Basics)**
+There was two Questions to solve in hackerrank Assement to get Certification Of Python Basics  **[CERTFICATE](https://www.hackerrank.com/certificates/deede1168056)**.
 
 **Earned Golden Badge in SQL on HackerRank.** **[BADGE](https://www.hackerrank.com/profile/shahhsoham)**
 
